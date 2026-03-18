@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Calculadora de Exames</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+  <header class="brand">
+    <div class="brand-logo">CM</div>
+    <div class="brand-text">
+      <strong>Clínica Maya</strong>
+      <p class="brand-subtitle">Calculadora de exames laboratoriais</p>
+    </div>
+  </header>
+
+  <h1>🧮 Sistema de Cálculo de Exames</h1>
+
+  <input type="text" id="search" placeholder="Digite o nome do exame" autocomplete="off">
+
+  <ul id="results"></ul>
+
+  <h2>Total: R$ <span id="total">0.00</span></h2>
+
+  <button id="clear-btn" type="button">Limpar</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

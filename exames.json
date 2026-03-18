@@ -1,0 +1,36 @@
+[
+  { "codigo": "001", "nome": "Glicemia de Jejum", "valor": 8, "categoria": "Bioquímica" },
+  { "codigo": "002", "nome": "Ureia", "valor": 8, "categoria": "Bioquímica" },
+  { "codigo": "003", "nome": "Creatinina", "valor": 8, "categoria": "Bioquímica" },
+  { "codigo": "004", "nome": "Ácido Úrico", "valor": 8, "categoria": "Bioquímica" },
+  { "codigo": "005", "nome": "Sódio", "valor": 8, "categoria": "Bioquímica" },
+  { "codigo": "006", "nome": "Potássio", "valor": 8, "categoria": "Bioquímica" },
+  { "codigo": "007", "nome": "Cálcio", "valor": 8, "categoria": "Bioquímica" },
+  { "codigo": "008", "nome": "Cálcio Iônico", "valor": 8, "categoria": "Bioquímica" },
+
+  { "codigo": "020", "nome": "Hemograma Completo", "valor": 13, "categoria": "Hematologia" },
+  { "codigo": "021", "nome": "VSH", "valor": 15, "categoria": "Hematologia" },
+  { "codigo": "022", "nome": "Reticulócitos", "valor": 30, "categoria": "Hematologia" },
+
+  { "codigo": "040", "nome": "TSH", "valor": 15, "categoria": "Hormônios" },
+  { "codigo": "041", "nome": "T3", "valor": 15, "categoria": "Hormônios" },
+  { "codigo": "042", "nome": "T4", "valor": 15, "categoria": "Hormônios" },
+  { "codigo": "043", "nome": "T3 Livre", "valor": 15, "categoria": "Hormônios" },
+  { "codigo": "044", "nome": "T4 Livre", "valor": 15, "categoria": "Hormônios" },
+  { "codigo": "045", "nome": "Prolactina", "valor": 25, "categoria": "Hormônios" },
+  { "codigo": "046", "nome": "Progesterona", "valor": 30, "categoria": "Hormônios" },
+
+  { "codigo": "060", "nome": "EAS", "valor": 8, "categoria": "Urina" },
+  { "codigo": "061", "nome": "Urocultura com Antibiograma", "valor": 38, "categoria": "Urina" },
+
+  { "codigo": "080", "nome": "VDRL", "valor": 10, "categoria": "Imunologia" },
+  { "codigo": "081", "nome": "Anti-HIV", "valor": 35, "categoria": "Imunologia" },
+  { "codigo": "082", "nome": "FTA-Abs", "valor": 60, "categoria": "Imunologia" },
+
+  { "codigo": "100", "nome": "Vitamina B12", "valor": 20, "categoria": "Vitaminas" },
+  { "codigo": "101", "nome": "25-OH Vitamina D", "valor": 30, "categoria": "Vitaminas" },
+
+  { "codigo": "200", "nome": "Sexagem Fetal", "valor": 320, "categoria": "Genética" },
+  { "codigo": "201", "nome": "DNA Pai e Filho", "valor": 450, "categoria": "Genética" },
+  { "codigo": "202", "nome": "DNA Pai, Mãe e Filho", "valor": 450, "categoria": "Genética" }
+]
